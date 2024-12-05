@@ -1,1 +1,1 @@
-I am currently learning about Python, Javascript, Djanggo, Flask
+I am currently learning about Python, Javascript, Django, Flask
