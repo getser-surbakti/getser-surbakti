@@ -1,9 +1,13 @@
-Applied Mathematics | Data Analytics & Software Development
+# Hi, I'm Getser 👋
 
-I build projects involving data, programming, and problem solving.
+Applied Mathematics graduate interested in data, programming, and problem solving.
 
-Currently exploring:
-- Data Analytics
+I build projects involving data analysis, automation, and software development.
+
+Currently working with:
+- C++
+- Java
 - Python
 - SQL
+- Data Analytics
 - Software Development
