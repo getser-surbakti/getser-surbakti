@@ -1,28 +1,30 @@
 # Hi, I'm Getser 👋
 
 🎓 Applied Mathematics graduate passionate about **data, programming, and problem solving**.  
-💡 I enjoy building projects in **data analysis, automation, and software development**.
+💡 I build projects in **data analytics, web development, and financial tools**.
 
 ---
 
 ## 🚀 Tech Stack
 - 🖥️ C++ | Java | Python | SQL  
-- 📊 Data Analytics | Machine Learning  
-- ⚙️ Software Development | Automation  
+- 🌐 Web Development (React, Next.js, Tailwind CSS)  
+- 📊 Data Analytics (Pandas, Jupyter, Visualization)  
+- 💰 Finance Tools & Automation  
 
 ---
 
 ## 📌 Current Focus
-- Exploring **data-driven projects** with Python & Pandas  
-- Building **scalable applications** using modern frameworks  
-- Improving **GitHub documentation** and project workflows  
+- Developing **data analytics pipelines** with Python & Pandas  
+- Building **web applications** for interactive dashboards  
+- Creating **finance tools** to support decision-making and automation  
 
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/getser-surbakti/)  
-- [Email](getser845@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Portfolio](https://your-portfolio-link.com)  
+- [Email](mailto:your-email@example.com)
 
 ---
 
-⭐️ Feel free to check out my repositories and leave a star if you find them useful!
+⭐️ Explore my repositories for projects in **data analytics, web apps, and finance tools** — and don’t forget to leave a star if you find them useful!
