@@ -21,9 +21,9 @@
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [LinkedIn](https://www.linkedin.com/in/getser-surbakti)  
 - [Portfolio](https://your-portfolio-link.com)  
-- [Email](mailto:your-email@example.com)
+- [Email](mailto: getser845@gmail.com)
 
 ---
 
