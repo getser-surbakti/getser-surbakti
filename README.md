@@ -20,11 +20,4 @@
 
 ---
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/getser-surbakti)  
-- [Portfolio](https://your-portfolio-link.com)  
-- [Email](mailto: getser845@gmail.com)
-
----
-
 ⭐️ Explore my repositories for projects in **data analytics, web apps, and finance tools** — and don’t forget to leave a star if you find them useful!
